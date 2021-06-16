@@ -1,5 +1,8 @@
-<h1> Hey there! This is &nbsp Md. Mehedi Hasan Rumi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+[![mhRumi's GitHub Banner](./Githubheader.jpg)](linkedin.com/in/rumiswe)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](linkedin.com/in/rumiswe)
+[![LinkedIn Badge](https://img.shields.io/badge/-Resume-informational?style=flat&&logoColor=white&color=0D76A8)](https://drive.google.com/file/d/1ugo9pa0J5J_NKJNum1XKi3BLR-JiU6Yp/view?usp=sharing")
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -9,45 +12,67 @@
 - 💼 &nbsp; Android developer and back-end web development, Machine learing engineer.
 - 🌱 &nbsp; Enthusiast in Data Science, Deep Learning, Machine Learning, Artificial Intelligence .
 - ✍️ &nbsp; Playing Cricket, Football, Riding cycle, Walking
-- - <a href="https://drive.google.com/file/d/1ugo9pa0J5J_NKJNum1XKi3BLR-JiU6Yp/view?usp=sharing">Resume </a>
 
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
+<!-- Pinned Repositories -->
+<h2>
+<img class="emoji" alt="pushpin" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width="20" height="20">
+Pinned Repositories
+</h2>
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+<a href="https://github.com/sust-swe/SWE-Society">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRumi&repo=SWE-Society&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+</a>
+
 <br>
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+
+<a href="https://github.com/mhRumi/Tracker">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRumi&repo=Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+</a>
+
+<a href="https://github.com/mhRumi/JavaGameProject-8-Ball">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRUmi&repo=JavaGameProject-8-Ball&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+</a>
+
+<!--  GitHub Stats -->
+
+<h2>
+  <img class="emoji" alt="chart_with_upwards_trend" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" width="20" height="20">
+  GitHub Stats
+</h2>
+
+
+<a href="https://github.com/mhRumi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhRumi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+</a>
+
+<a href="https://github.com/mhRumi">
+  <img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mhRumi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=151515" alt="mhRumi's GitHub Stats" />
+</a>
+
+<!-- Skills -->
+<h2>
+  <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20">
+  Skills
+</h2>
+
+![HTML5](https://img.shields.io/badge/html%205-4AB197?style=flat&logo=html5&logoColor=white&labelColor=grey)
+![CSS3](https://img.shields.io/badge/css%203-4AB197?style=flat&logo=css3&logoColor=white&labelColor=grey)
+![JavaScript](https://img.shields.io/badge/-JavaScript-4AB197?style=flat&logo=javascript&logoColor=white&labelColor=grey)
+![bootstrap](https://img.shields.io/badge/-bootstrap-4AB197?style=flat&logo=bootstrap&logoColor=white&labelColor=grey)
+![node](https://img.shields.io/badge/-node-4AB197?style=flat&logo=node.js&logoColor=white&labelColor=grey)
+![php](https://img.shields.io/badge/-php-4AB197?style=flat&logo=php&logoColor=white&labelColor=grey)
 <br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
-![C](https://img.shields.io/badge/-c-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhRumi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mhRumi's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhRumi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/mhRumi/github-readme-stats)
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="linkedin.com/in/rumiswe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="rumiswe@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-  &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-</p>
+![mongodb](https://img.shields.io/badge/-mongodb-4AB197?flat&logo=mongodb&logoColor=white&labelColor=grey)
+![firebase](https://img.shields.io/badge/-firebase-4AB197?style=flat&logo=firebase&logoColor=white&labelColor=grey)
+![git](https://img.shields.io/badge/-git-4AB197?style=flat&logo=git&logoColor=white&labelColor=grey)
+![github](https://img.shields.io/badge/-github-4AB197?style=flat&logo=github&logoColor=white&labelColor=grey)
+<br>
+![python](https://img.shields.io/badge/-python-4AB197?style=flate&logo=python&logoColor=white&labelColor=grey)
+![Java](https://img.shields.io/badge/-java-4AB197?style=flate&logo=java&logoColor=white&labelColor=grey)
+![C](https://img.shields.io/badge/-c-grey?4AB197=flat&logo=c&logoColor=white&labelColor=grey)
+![git](https://img.shields.io/badge/-git-4AB197?style=flat&logo=git&logoColor=white&labelColor=grey)
 
 
 
