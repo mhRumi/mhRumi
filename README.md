@@ -21,18 +21,18 @@ Pinned Repositories
 </h2>
 
 <a href="https://github.com/sust-swe/SWE-Society">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRumi&repo=SWE-Society&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRumi&repo=SWE-Society&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/mhRumi/Tracker">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRumi&repo=Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRumi&repo=Tracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/mhRumi/JavaGameProject-8-Ball">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRUmi&repo=JavaGameProject-8-Ball&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mhRUmi&repo=JavaGameProject-8-Ball&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <!--  GitHub Stats -->
@@ -44,11 +44,11 @@ Pinned Repositories
 
 
 <a href="https://github.com/mhRumi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhRumi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhRumi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/mhRumi">
-  <img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mhRumi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=151515" alt="mhRumi's GitHub Stats" />
+  <img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mhRumi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="mhRumi's GitHub Stats" />
 </a>
 
 <!-- Skills -->
