@@ -9,8 +9,8 @@
 - 🔭 &nbsp; Currently learning Deep learning
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and back-end web development, Machine learing engineer.
-- 🌱 &nbsp; Enthusiast in Data Science, Deep Learning, Machine Learning, Artificial Intelligence .
+- 💼 &nbsp; Android developer and back-end web development.
+- 🌱 &nbsp; Enthusiast in Deep Learning.
 - ✍️ &nbsp; Playing Cricket, Football, Riding cycle, Walking
 
 
