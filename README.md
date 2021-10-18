@@ -57,6 +57,8 @@ Pinned Repositories
   Skills
 </h2>
 
+![Docker](https://img.shields.io/badge/docker-4AB197.svg?style=flat&logo=docker&logoColor=white&labelColor=grey)
+![Kubernetes](https://img.shields.io/badge/kubernetes-4AB197.svg?style=flat&logo=kubernetes&logoColor=white&labelColor=grey)
 ![HTML5](https://img.shields.io/badge/html%205-4AB197?style=flat&logo=html5&logoColor=white&labelColor=grey)
 ![CSS3](https://img.shields.io/badge/css%203-4AB197?style=flat&logo=css3&logoColor=white&labelColor=grey)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-4AB197?style=flat&logo=javascript&logoColor=white&labelColor=grey)
