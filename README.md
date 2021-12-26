@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning Deep learning
+- 🔭 &nbsp; Currently learning Kubernetes, AWS, Terraform, Jenkins, Tsung
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and back-end web development.
