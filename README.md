@@ -1,7 +1,7 @@
 [![mhRumi's GitHub Banner](./Githubheader.jpg)](https://linkedin.com/in/rumiswe)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/rumiswe)
-[![Resume Badge](https://img.shields.io/badge/-Resume-informational?style=flat&logo=&logoColor=white&color=0D76A8)](https://drive.google.com/file/d/11ff5_K_RyP4buWGOGgQOJ-xZt7usg-7V/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Resume-informational?style=flat&logo=&logoColor=white&color=0D76A8)](https://drive.google.com/file/d/1ihRVrHRB0QowByRDe2ZupqNEWcV9uZMc/view?usp=sharing)
 [![Email Badge](https://img.shields.io/badge/Email-rumiswe@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
 
 <h3> 👨🏻‍💻 About Me </h3>
